@@ -14,7 +14,7 @@
             "last_commit": "2026-08-15T00:50:08Z",
             "owner": "dotnet",
             "repo": "core",
-            "stars": 22031
+            "stars": 22032
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2023-01-21T00:07:42Z",
             "owner": "dotnet",
             "repo": "corefx",
-            "stars": 17483
+            "stars": 17484
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-02-27T03:58:00Z",
             "owner": "thangchung",
             "repo": "clean-code-dotnet",
-            "stars": 7721
+            "stars": 7722
           }
         }
       ],
@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T05:43:33Z",
+            "last_commit": "2026-08-15T14:40:27Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26673
+            "stars": 26674
           }
         },
         {
@@ -233,7 +233,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T10:16:36Z",
+            "last_commit": "2026-08-15T09:51:32Z",
             "owner": "json-api-dotnet",
             "repo": "JsonApiDotNetCore",
             "stars": 715
@@ -406,7 +406,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "C#",
-                "last_commit": "2026-08-15T08:01:22Z",
+                "last_commit": "2026-08-15T21:49:12Z",
                 "owner": "ChilliCream",
                 "repo": "graphql-platform",
                 "stars": 5750
@@ -554,10 +554,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T05:03:38Z",
+            "last_commit": "2026-08-15T11:44:15Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45285
+            "stars": 45283
           }
         },
         {
@@ -568,10 +568,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T06:21:57Z",
+            "last_commit": "2026-08-15T10:18:20Z",
             "owner": "dotnet",
             "repo": "aspnetcore",
-            "stars": 38373
+            "stars": 38375
           }
         },
         {
@@ -582,10 +582,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T03:01:06Z",
+            "last_commit": "2026-08-16T04:49:18Z",
             "owner": "abpframework",
             "repo": "abp",
-            "stars": 14400
+            "stars": 14402
           }
         },
         {
@@ -610,10 +610,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T23:57:14Z",
+            "last_commit": "2026-08-15T16:17:09Z",
             "owner": "dotnet",
             "repo": "orleans",
-            "stars": 10832
+            "stars": 10834
           }
         },
         {
@@ -624,7 +624,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T18:24:03Z",
+            "last_commit": "2026-08-16T06:42:32Z",
             "owner": "fission",
             "repo": "fission",
             "stars": 8896
@@ -669,7 +669,7 @@
             "last_commit": "2026-08-01T13:10:06Z",
             "owner": "dotnetcore",
             "repo": "CAP",
-            "stars": 7103
+            "stars": 7104
           }
         },
         {
@@ -711,7 +711,7 @@
             "last_commit": "2026-08-10T05:40:38Z",
             "owner": "shimat",
             "repo": "opencvsharp",
-            "stars": 6062
+            "stars": 6063
           }
         },
         {
@@ -722,7 +722,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T18:06:27Z",
+            "last_commit": "2026-08-16T06:36:18Z",
             "owner": "ServiceStack",
             "repo": "ServiceStack",
             "stars": 5499
@@ -918,7 +918,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T20:34:53Z",
+            "last_commit": "2026-08-15T20:26:52Z",
             "owner": "Finbuckle",
             "repo": "Finbuckle.MultiTenant",
             "stars": 1617
@@ -1002,7 +1002,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T13:29:06Z",
+            "last_commit": "2026-08-15T19:01:49Z",
             "owner": "riganti",
             "repo": "dotvvm",
             "stars": 806
@@ -1142,7 +1142,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T12:39:14Z",
+            "last_commit": "2026-08-15T13:34:51Z",
             "owner": "OctopusDeploy",
             "repo": "Halibut",
             "stars": 24
@@ -1179,7 +1179,7 @@
             "last_commit": "2026-08-14T22:33:06Z",
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20459
+            "stars": 20461
           }
         },
         {
@@ -1193,7 +1193,7 @@
             "last_commit": "2026-08-14T20:16:57Z",
             "owner": "ardalis",
             "repo": "CleanArchitecture",
-            "stars": 18403
+            "stars": 18406
           }
         },
         {
@@ -1207,7 +1207,7 @@
             "last_commit": "2026-08-11T23:12:02Z",
             "owner": "Dotnet-Boxed",
             "repo": "Templates",
-            "stars": 3483
+            "stars": 3484
           }
         },
         {
@@ -1232,7 +1232,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T23:19:03Z",
+            "last_commit": "2026-08-15T17:54:50Z",
             "owner": "serenity-is",
             "repo": "Serenity",
             "stars": 2694
@@ -1263,7 +1263,7 @@
             "last_commit": "2023-11-24T09:50:52Z",
             "owner": "fullstackproltd",
             "repo": "AspNetCoreSpa",
-            "stars": 1532
+            "stars": 1533
           }
         },
         {
@@ -1277,7 +1277,7 @@
             "last_commit": "2026-01-03T17:32:32Z",
             "owner": "emonney",
             "repo": "QuickApp",
-            "stars": 1352
+            "stars": 1351
           }
         },
         {
@@ -1424,7 +1424,7 @@
             "last_commit": "2026-08-14T17:38:26Z",
             "owner": "openiddict",
             "repo": "openiddict-core",
-            "stars": 5224
+            "stars": 5225
           }
         },
         {
@@ -1449,10 +1449,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-06-16T14:35:41Z",
+            "last_commit": "2026-08-15T14:45:47Z",
             "owner": "apache",
             "repo": "casbin-Casbin.NET",
-            "stars": 1330
+            "stars": 1329
           }
         },
         {
@@ -1611,7 +1611,7 @@
             "last_commit": "2026-08-07T15:22:21Z",
             "owner": "btcpayserver",
             "repo": "btcpayserver",
-            "stars": 7710
+            "stars": 7711
           }
         },
         {
@@ -1664,7 +1664,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T08:38:42Z",
+            "last_commit": "2026-08-16T08:44:09Z",
             "owner": "NethermindEth",
             "repo": "nethermind",
             "stars": 1586
@@ -1771,7 +1771,7 @@
             "last_commit": "2026-08-13T02:05:05Z",
             "owner": "SciSharp",
             "repo": "BotSharp",
-            "stars": 3093
+            "stars": 3094
           }
         },
         {
@@ -1816,7 +1816,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T21:45:09Z",
+            "last_commit": "2026-08-16T07:09:36Z",
             "owner": "dotnet",
             "repo": "msbuild",
             "stars": 5542
@@ -1833,7 +1833,7 @@
             "last_commit": "2026-08-13T05:06:20Z",
             "owner": "dotnet",
             "repo": "dotnet-docker",
-            "stars": 4863
+            "stars": 4865
           }
         },
         {
@@ -1903,7 +1903,7 @@
             "last_commit": "2026-08-15T05:02:21Z",
             "owner": "dotnet",
             "repo": "Nerdbank.GitVersioning",
-            "stars": 1579
+            "stars": 1580
           }
         },
         {
@@ -1945,7 +1945,7 @@
             "last_commit": "2026-07-22T00:29:03Z",
             "owner": "devlooped",
             "repo": "GitInfo",
-            "stars": 651
+            "stars": 652
           }
         },
         {
@@ -2170,7 +2170,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T02:52:35Z",
+            "last_commit": "2026-08-16T06:02:28Z",
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
             "stars": 8156
@@ -2184,7 +2184,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T15:38:56Z",
+            "last_commit": "2026-08-16T04:31:46Z",
             "owner": "umbraco",
             "repo": "Umbraco-CMS",
             "stars": 5224
@@ -2215,7 +2215,7 @@
             "last_commit": "2026-08-05T09:34:14Z",
             "owner": "Squidex",
             "repo": "squidex",
-            "stars": 2512
+            "stars": 2513
           }
         },
         {
@@ -2431,7 +2431,7 @@
             "last_commit": "2026-06-10T13:06:01Z",
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14735
+            "stars": 14737
           }
         },
         {
@@ -2492,7 +2492,7 @@
                 "last_commit": "2026-08-14T23:20:23Z",
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1002
+                "stars": 1003
               }
             },
             {
@@ -2524,10 +2524,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C#",
-                "last_commit": "2026-08-14T20:31:56Z",
+                "last_commit": "2026-08-16T01:51:06Z",
                 "owner": "dotnet",
                 "repo": "BenchmarkDotNet",
-                "stars": 11473
+                "stars": 11472
               }
             },
             {
@@ -2552,7 +2552,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "C#",
-                "last_commit": "2026-06-12T20:54:28Z",
+                "last_commit": "2026-08-16T05:16:15Z",
                 "owner": "thepirat000",
                 "repo": "Audit.NET",
                 "stars": 2642
@@ -2669,7 +2669,7 @@
                   "repo_info": {
                     "archived": false,
                     "language": "C#",
-                    "last_commit": "2026-08-15T05:52:36Z",
+                    "last_commit": "2026-08-15T22:50:42Z",
                     "owner": "prom-client-net",
                     "repo": "prom-client-metricpusher",
                     "stars": 19
@@ -2760,7 +2760,7 @@
             "last_commit": "2026-08-13T09:37:26Z",
             "owner": "adamhathcock",
             "repo": "sharpcompress",
-            "stars": 2579
+            "stars": 2580
           }
         },
         {
@@ -2791,10 +2791,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T03:36:54Z",
+            "last_commit": "2026-08-16T02:03:10Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20608
+            "stars": 20609
           }
         },
         {
@@ -2988,7 +2988,7 @@
             "last_commit": "2026-08-11T06:00:45Z",
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9454
+            "stars": 9456
           }
         },
         {
@@ -2999,10 +2999,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-11T19:57:10Z",
+            "last_commit": "2026-08-15T19:00:23Z",
             "owner": "JasperFx",
             "repo": "marten",
-            "stars": 3442
+            "stars": 3443
           }
         },
         {
@@ -3092,7 +3092,7 @@
             "last_commit": "2026-08-12T12:36:57Z",
             "owner": "npgsql",
             "repo": "npgsql",
-            "stars": 3721
+            "stars": 3720
           }
         },
         {
@@ -3173,7 +3173,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T14:06:57Z",
+            "last_commit": "2026-08-16T06:59:05Z",
             "owner": "ayende",
             "repo": "ravendb",
             "stars": 296
@@ -3308,7 +3308,7 @@
             "last_commit": "2026-02-23T23:09:58Z",
             "owner": "DbUp",
             "repo": "DbUp",
-            "stars": 2618
+            "stars": 2619
           }
         },
         {
@@ -3322,7 +3322,7 @@
             "last_commit": "2026-08-12T12:25:27Z",
             "owner": "ErikEJ",
             "repo": "EFCorePowerTools",
-            "stars": 2507
+            "stars": 2508
           }
         },
         {
@@ -3454,7 +3454,7 @@
             "last_commit": "2026-07-16T07:35:00Z",
             "owner": "nodatime",
             "repo": "nodatime",
-            "stars": 2995
+            "stars": 2997
           }
         },
         {
@@ -3499,7 +3499,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T16:50:10Z",
+            "last_commit": "2026-08-15T16:38:34Z",
             "owner": "App-vNext",
             "repo": "Polly",
             "stars": 14227
@@ -3649,7 +3649,7 @@
             "last_commit": "2026-08-14T09:02:09Z",
             "owner": "nopSolutions",
             "repo": "nopCommerce",
-            "stars": 10122
+            "stars": 10124
           }
         },
         {
@@ -3663,7 +3663,7 @@
             "last_commit": "2026-06-08T18:31:33Z",
             "owner": "simplcommerce",
             "repo": "SimplCommerce",
-            "stars": 4417
+            "stars": 4418
           }
         },
         {
@@ -3776,10 +3776,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T22:09:12Z",
+            "last_commit": "2026-08-16T06:24:02Z",
             "owner": "reactiveui",
             "repo": "ReactiveUI",
-            "stars": 8531
+            "stars": 8532
           }
         },
         {
@@ -3793,7 +3793,7 @@
             "last_commit": "2026-07-17T13:44:45Z",
             "owner": "dotnet",
             "repo": "reactive",
-            "stars": 7188
+            "stars": 7187
           }
         },
         {
@@ -3995,7 +3995,7 @@
             "last_commit": "2026-07-23T14:18:15Z",
             "owner": "Shane32",
             "repo": "QRCoder",
-            "stars": 5152
+            "stars": 5151
           }
         },
         {
@@ -4141,7 +4141,7 @@
             "last_commit": "2026-08-14T15:57:58Z",
             "owner": "AvaloniaUI",
             "repo": "Avalonia",
-            "stars": 31319
+            "stars": 31331
           }
         },
         {
@@ -4242,10 +4242,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T07:26:26Z",
+            "last_commit": "2026-08-16T08:00:22Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 188706
+            "stars": 188753
           }
         },
         {
@@ -4397,7 +4397,7 @@
             "last_commit": "2026-05-28T13:46:57Z",
             "owner": "dadhi",
             "repo": "DryIoc",
-            "stars": 1128
+            "stars": 1127
           }
         },
         {
@@ -4612,7 +4612,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T21:14:04Z",
+            "last_commit": "2026-08-15T09:50:48Z",
             "owner": "NLog",
             "repo": "NLog",
             "stars": 6545
@@ -4761,7 +4761,7 @@
             "last_commit": "2026-03-22T01:25:44Z",
             "owner": "mxgmn",
             "repo": "WaveFunctionCollapse",
-            "stars": 25272
+            "stars": 25273
           }
         },
         {
@@ -4775,7 +4775,7 @@
             "last_commit": "2026-08-13T12:48:29Z",
             "owner": "dotnet",
             "repo": "machinelearning",
-            "stars": 9346
+            "stars": 9347
           }
         },
         {
@@ -4831,7 +4831,7 @@
             "last_commit": "2023-04-16T20:28:15Z",
             "owner": "Spreads",
             "repo": "Spreads",
-            "stars": 432
+            "stars": 433
           }
         },
         {
@@ -4862,7 +4862,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T22:26:18Z",
+            "last_commit": "2026-08-15T21:44:45Z",
             "owner": "jstedfast",
             "repo": "MailKit",
             "stars": 6840
@@ -4876,10 +4876,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T04:46:36Z",
+            "last_commit": "2026-08-16T02:24:53Z",
             "owner": "ChangemakerStudios",
             "repo": "Papercut-SMTP",
-            "stars": 3324
+            "stars": 3323
           }
         },
         {
@@ -4904,10 +4904,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-03T12:08:13Z",
+            "last_commit": "2026-08-15T21:05:44Z",
             "owner": "jstedfast",
             "repo": "MimeKit",
-            "stars": 1999
+            "stars": 2000
           }
         },
         {
@@ -5073,7 +5073,7 @@
             "last_commit": "2026-07-02T13:51:10Z",
             "owner": "LuckyPennySoftware",
             "repo": "AutoMapper",
-            "stars": 10195
+            "stars": 10194
           }
         },
         {
@@ -5129,7 +5129,7 @@
             "last_commit": "2026-08-01T14:34:04Z",
             "owner": "Tyrrrz",
             "repo": "CliWrap",
-            "stars": 4994
+            "stars": 4995
           }
         },
         {
@@ -5171,7 +5171,7 @@
             "last_commit": "2026-08-14T21:47:25Z",
             "owner": "hardkoded",
             "repo": "puppeteer-sharp",
-            "stars": 3913
+            "stars": 3912
           }
         },
         {
@@ -5185,7 +5185,7 @@
             "last_commit": "2026-08-07T11:45:36Z",
             "owner": "Tyrrrz",
             "repo": "YoutubeExplode",
-            "stars": 3710
+            "stars": 3708
           }
         },
         {
@@ -5213,7 +5213,7 @@
             "last_commit": "2026-07-19T10:27:27Z",
             "owner": "dotnet-script",
             "repo": "dotnet-script",
-            "stars": 3008
+            "stars": 3007
           }
         },
         {
@@ -5252,7 +5252,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T05:47:16Z",
+            "last_commit": "2026-08-15T19:44:41Z",
             "owner": "dahall",
             "repo": "Vanara",
             "stars": 2089
@@ -5294,7 +5294,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-09T01:28:24Z",
+            "last_commit": "2026-08-16T01:09:43Z",
             "owner": "bezzad",
             "repo": "Downloader",
             "stars": 1699
@@ -5311,7 +5311,7 @@
             "last_commit": "2026-08-12T13:11:13Z",
             "owner": "dotnet-outdated",
             "repo": "dotnet-outdated",
-            "stars": 1690
+            "stars": 1691
           }
         },
         {
@@ -5521,7 +5521,7 @@
             "last_commit": "2026-04-26T21:58:44Z",
             "owner": "tonerdo",
             "repo": "dotnet-env",
-            "stars": 559
+            "stars": 560
           }
         },
         {
@@ -5917,7 +5917,7 @@
                 "last_commit": "2026-08-12T12:15:35Z",
                 "owner": "FluentValidation",
                 "repo": "FluentValidation",
-                "stars": 9754
+                "stars": 9753
               }
             },
             {
@@ -5931,7 +5931,7 @@
                 "last_commit": "2025-12-10T21:11:02Z",
                 "owner": "safakgur",
                 "repo": "guard",
-                "stars": 705
+                "stars": 704
               }
             },
             {
@@ -5981,7 +5981,7 @@
             "last_commit": "2026-08-14T16:42:29Z",
             "owner": "dotpcap",
             "repo": "sharppcap",
-            "stars": 1477
+            "stars": 1478
           }
         },
         {
@@ -6057,7 +6057,7 @@
             "last_commit": "2026-08-14T19:35:49Z",
             "owner": "dotnet",
             "repo": "Open-XML-SDK",
-            "stars": 4578
+            "stars": 4581
           }
         },
         {
@@ -6107,7 +6107,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "C#",
-                "last_commit": "2026-08-15T02:03:50Z",
+                "last_commit": "2026-08-15T23:35:06Z",
                 "owner": "phnx47",
                 "repo": "dapper-repositories",
                 "stars": 705
@@ -6370,7 +6370,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T06:12:34Z",
+            "last_commit": "2026-08-16T03:39:56Z",
             "owner": "nhibernate",
             "repo": "nhibernate-core",
             "stars": 2172
@@ -6398,10 +6398,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T08:43:41Z",
+            "last_commit": "2026-08-16T08:35:15Z",
             "owner": "mikependon",
             "repo": "RepoDB",
-            "stars": 1888
+            "stars": 1889
           }
         },
         {
@@ -6454,7 +6454,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-09T17:31:08Z",
+            "last_commit": "2026-08-15T17:51:31Z",
             "owner": "dotnetcore",
             "repo": "SmartSql",
             "stars": 1131
@@ -6581,7 +6581,7 @@
             "last_commit": "2026-07-02T13:51:06Z",
             "owner": "LuckyPennySoftware",
             "repo": "MediatR",
-            "stars": 11855
+            "stars": 11853
           }
         },
         {
@@ -6637,7 +6637,7 @@
             "last_commit": "2026-08-06T06:49:44Z",
             "owner": "EasyNetQ",
             "repo": "EasyNetQ",
-            "stars": 3058
+            "stars": 3057
           }
         },
         {
@@ -6651,7 +6651,7 @@
             "last_commit": "2026-05-26T05:58:46Z",
             "owner": "rebus-org",
             "repo": "Rebus",
-            "stars": 2653
+            "stars": 2654
           }
         },
         {
@@ -6811,7 +6811,7 @@
             "last_commit": "2026-07-20T12:19:41Z",
             "owner": "HangfireIO",
             "repo": "Hangfire",
-            "stars": 10116
+            "stars": 10117
           }
         },
         {
@@ -6822,7 +6822,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-11T20:34:47Z",
+            "last_commit": "2026-08-15T22:03:49Z",
             "owner": "quartznet",
             "repo": "quartznet",
             "stars": 7067
@@ -6957,7 +6957,7 @@
             "last_commit": "2025-08-28T14:08:51Z",
             "owner": "dotnet",
             "repo": "Docker.DotNet",
-            "stars": 2413
+            "stars": 2412
           }
         },
         {
@@ -7464,7 +7464,7 @@
             "last_commit": "2026-08-13T14:42:55Z",
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11309
+            "stars": 11310
           }
         },
         {
@@ -7478,7 +7478,7 @@
             "last_commit": "2025-06-27T19:49:36Z",
             "owner": "JoshClose",
             "repo": "CsvHelper",
-            "stars": 5211
+            "stars": 5210
           }
         },
         {
@@ -7489,7 +7489,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T22:27:14Z",
+            "last_commit": "2026-08-16T06:59:10Z",
             "owner": "protobuf-net",
             "repo": "protobuf-net",
             "stars": 4965
@@ -7743,7 +7743,7 @@
             "last_commit": "2026-07-29T07:22:51Z",
             "owner": "scriban",
             "repo": "scriban",
-            "stars": 3953
+            "stars": 3955
           }
         },
         {
@@ -7754,7 +7754,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-10T21:13:44Z",
+            "last_commit": "2026-08-16T02:09:51Z",
             "owner": "sebastienros",
             "repo": "fluid",
             "stars": 1768
@@ -7872,7 +7872,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-10T20:36:43Z",
+            "last_commit": "2026-08-16T07:19:21Z",
             "owner": "fluentassertions",
             "repo": "fluentassertions",
             "stars": 3816
@@ -8136,10 +8136,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T00:13:56Z",
+            "last_commit": "2026-08-15T22:22:32Z",
             "owner": "ShareX",
             "repo": "ShareX",
-            "stars": 39137
+            "stars": 39155
           }
         },
         {
@@ -8153,7 +8153,7 @@
             "last_commit": "2026-06-13T16:17:42Z",
             "owner": "ScoopInstaller",
             "repo": "Scoop",
-            "stars": 24548
+            "stars": 24549
           }
         },
         {
@@ -8164,10 +8164,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T23:30:25Z",
+            "last_commit": "2026-08-16T06:04:54Z",
             "owner": "mRemoteNG",
             "repo": "mRemoteNG",
-            "stars": 11048
+            "stars": 11050
           }
         },
         {
@@ -8209,7 +8209,7 @@
             "last_commit": "2023-10-02T12:33:45Z",
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5385
+            "stars": 5384
           }
         },
         {
@@ -8237,7 +8237,7 @@
             "last_commit": "2024-09-03T21:00:32Z",
             "owner": "icsharpcode",
             "repo": "SharpZipLib",
-            "stars": 3924
+            "stars": 3925
           }
         },
         {
@@ -8248,10 +8248,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T02:08:57Z",
+            "last_commit": "2026-08-16T02:06:41Z",
             "owner": "dotnet",
             "repo": "command-line-api",
-            "stars": 3673
+            "stars": 3672
           }
         },
         {
@@ -8265,7 +8265,7 @@
             "last_commit": "2024-11-18T22:02:53Z",
             "owner": "ashmind",
             "repo": "SharpLab",
-            "stars": 2972
+            "stars": 2973
           }
         },
         {
@@ -8307,7 +8307,7 @@
             "last_commit": "2026-08-01T14:34:11Z",
             "owner": "Tyrrrz",
             "repo": "CliFx",
-            "stars": 1612
+            "stars": 1613
           }
         },
         {
@@ -8361,7 +8361,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T02:06:37Z",
+            "last_commit": "2026-08-16T02:05:25Z",
             "owner": "dotnet",
             "repo": "sourcelink",
             "stars": 1350
@@ -8833,10 +8833,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T08:27:22Z",
+            "last_commit": "2026-08-15T23:57:52Z",
             "owner": "bitwarden",
             "repo": "server",
-            "stars": 19846
+            "stars": 19859
           }
         },
         {
@@ -9022,7 +9022,7 @@
                 "last_commit": "2026-08-07T20:42:17Z",
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 10775
+                "stars": 10777
               }
             },
             {
@@ -9092,7 +9092,7 @@
                 "last_commit": "2023-04-27T20:23:43Z",
                 "owner": "thangchung",
                 "repo": "clean-architecture-dotnet",
-                "stars": 1356
+                "stars": 1357
               }
             },
             {
@@ -9180,10 +9180,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C#",
-                "last_commit": "2026-08-15T06:21:57Z",
+                "last_commit": "2026-08-15T10:18:20Z",
                 "owner": "dotnet",
                 "repo": "aspnetcore",
-                "stars": 38373
+                "stars": 38375
               }
             },
             {
@@ -9239,7 +9239,7 @@
                 "last_commit": "2023-07-01T22:31:12Z",
                 "owner": "jasontaylordev",
                 "repo": "NorthwindTraders",
-                "stars": 5009
+                "stars": 5008
               }
             },
             {
@@ -9623,7 +9623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T08:44:26.657Z",
+    "last_updated": "2026-08-16T08:45:48.334Z",
     "original_repository": "thangchung/awesome-dotnet-core",
     "original_repository_sha": "26204aa32be461a7a88c2c372050ffeaed6bcde9",
     "enhanced_repository": "enhansome/enhansome-dotnet-core",
